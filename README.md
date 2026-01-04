@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Social media
+
+- [LinkedIn](www.linkedin.com/in/jakub-kilianczyk)
+- [lichess.org](https://lichess.org/@/COUNTERREVOLUTIONAXE)
+- [chess.com](https://www.chess.com/member/isharpl)
+
+## Hackerrank badges
+
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/jacky8203)](https://hackerrank.com/profile/jacky8203/)
